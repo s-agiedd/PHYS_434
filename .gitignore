@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.h5
+*.pkl
+*.h5
+*.h5
